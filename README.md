@@ -3,7 +3,7 @@
 🌍  *Coding the future, one line at a time*  
 💻  Full-Stack Developer | 🚀 Tech Enthusiast | 🎨 Creative Problem Solver
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syxles_)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syxles__)
 [![GitHub Followers](https://img.shields.io/github/followers/Syxless?label=Follow%20Me&style=social)](https://github.com/syxless)
 
 ## 🛠️ Tech Stack
