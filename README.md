@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C with 42 Nice**
 
-- 👨‍💻 All of my projects are available at [https://syxles.surge.sh](https://syxles.surge.sh)
+- 👨‍💻 Check out my cool portfolio [https://syxles.surge.sh](https://syxles.surge.sh)
 
 - 📫 How to reach me **syxles@debunkcafe.fr**
 
